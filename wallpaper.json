@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "url": "https://i.ibb.co/sdpWmdZx/Chat-GPT-Image-Jul-18-2025-11-19-32-PM.png",
+    "title": "Mystic Forest",
+    "subtitle": "Dark green woods in calm silence",
+    "seedColor": "0xFF316047",
+    "themeOption": "DARK"
+  },
+  {
+    "id": "2",
+    "url": "https://i.ibb.co/7xQLTQxn/ic-landscape-light.png",
+    "title": "Fantasy",
+    "subtitle": "Dream greenland",
+    "seedColor": "0xFF79927E",
+    "themeOption": "LIGHT"
+  },
+  {
+    "id": "3",
+    "url": "https://i.ibb.co/2YPR4bw8/ic-house-dark.png",
+    "title": "Dark Fantasy",
+    "subtitle": "Minion Home",
+    "seedColor": "0xFF64B5F6",
+    "isProWallpaper": true,
+    "themeOption": "DARK"
+  },
+  {
+    "id": "4",
+    "url": "https://i.ibb.co/jPpVfvRt/Sunken-Swamp.jpg",
+    "title": "Green Dom",
+    "seedColor": "0x00000000",
+    "subtitle": "Inspired by Niagara",
+    "themeOption": "AMOLED_DARK"
+  },
+  {
+    "id": "5",
+    "url": "https://i.ibb.co/zg0jfd4/Blue-Desert.jpg",
+    "title": "Blue loom",
+    "subtitle": "Indulge in bluey loom",
+    "seedColor": "0x00000000",
+    "themeOption": "AMOLED_DARK"
+  },
+  {
+    "id": "6",
+    "url": "https://i.ibb.co/ccpYj2LC/24382865-v904-nunny-016-f-min.jpg",
+    "title": "Pink Purple Blur",
+    "subtitle": "Powered by\nrawpixel.com",
+    "seedColor": "0x00000000",
+    "themeOption": "AMOLED_WHITE"
+  }
+]

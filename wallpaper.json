@@ -13,7 +13,7 @@
     "title": "Crimson Night",
     "subtitle": "Dark skies with a red glow",
     "seedColor": "0x00000000",
-    "themeOption": "AMOLED_WHITE"
+    "themeOption": "AMOLED_DARK"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "title": "Emerald Depths",
     "subtitle": "Green forest in shadowed mist",
     "seedColor": "0x00000000",
-    "themeOption": "AMOLED_WHITE"
+    "themeOption": "AMOLED_DARK"
   },
   {
     "id": "4",
@@ -37,7 +37,7 @@
     "title": "Shadow Realm",
     "subtitle": "Dark mist and glowing haze",
     "seedColor": "0x00000000",
-    "themeOption": "AMOLED_WHITE"
+    "themeOption": "AMOLED_DARK"
   },
   {
     "id": "6",
@@ -53,6 +53,6 @@
     "title": "Violet Dream",
     "subtitle": "Purple night hues in silence",
     "seedColor": "0x00000000",
-    "themeOption": "AMOLED_WHITE"
+    "themeOption": "AMOLED_DARK"
   }
 ]

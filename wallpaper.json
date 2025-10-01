@@ -1,58 +1,81 @@
 [
   {
+    "id": "categories",
+    "categories": [
+      {
+        "id": "cat_1",
+        "name": "Abstract"
+      },
+      {
+        "id": "cat_2",
+        "name": "Nature"
+      },
+      {
+        "id": "cat_3",
+        "name": "Minimal"
+      },
+      {
+        "id": "cat_4",
+        "name": "Dark"
+      },
+      {
+        "id": "cat_5",
+        "name": "Colorful"
+      }
+    ]
+  },
+  {
     "id": "1",
     "url": "https://i.ibb.co/BXZbqKL/trapped.jpg",
     "seedColor": "0x00000000",
     "title": "",
     "subtitle": "",
-    "themeOption": "AMOLED_DARK"
-  },
-  {
-    "id": "2",
-    "url": "https://i.ibb.co/j9JVDLNv/valentine-bonafonte-q-Q69f-MT7-Y8s-unsplash.jpg",
-    "seedColor": "0x00000000",
-    "title": "",
-    "subtitle": "",
-    "themeOption": "AMOLED_DARK"
+    "themeOption": "AMOLED_DARK",
+    "categoryId": "cat_1"
   },
   {
     "id": "3",
     "url": "https://i.ibb.co/j9JVDLNv/valentine-bonafonte-q-Q69f-MT7-Y8s-unsplash.jpg",
-    "seedColor": "0x00000000",
+    "seedColor": "0XFF32BEC8",
     "title": "",
     "subtitle": "",
-    "themeOption": "AMOLED_DARK"
+    "themeOption": "LIGHT",
+    "categoryId": "cat_3"
   },
   {
     "id": "4",
     "url": "https://i.ibb.co/N6r3WBj8/far-away.jpg",
-    "seedColor": "0x00000000",
+    "seedColor": "0XFF3C466E",
     "title": "",
     "subtitle": "",
-    "themeOption": "AMOLED_DARK"
+    "themeOption": "DARK",
+    "categoryId": "cat_4"
   },
   {
     "id": "5",
     "url": "https://i.ibb.co/0w3t69H/fluids.jpg",
-    "seedColor": "0x00000000",
+    "seedColor": "0XFF3C0050",
     "title": "",
     "subtitle": "",
-    "themeOption": "AMOLED_DARK"
+    "themeOption": "LIGHT",
+    "categoryId": "cat_5"
   },
   {
     "id": "6",
     "url": "https://i.ibb.co/S4Rqv1YB/blobbing.jpg",
-    "seedColor": "0x00000000",
+    "seedColor": "0XFF003C50",
     "title": "",
     "subtitle": "",
-    "themeOption": "AMOLED_DARK"
+    "themeOption": "DARK",
+    "categoryId": "cat_5"
   },
   {
     "id": "7",
     "url": "https://i.ibb.co/F4Xpjj6C/diamond-cut.jpg",
-    "seedColor": "0x00000000",
+    "seedColor": "0XFF28323C",
     "title": "",
     "subtitle": "",
-    "themeOption": "AMOLED_DARK"
+    "themeOption": "DARK",
+    "categoryId": "cat_1"
   }
 ]

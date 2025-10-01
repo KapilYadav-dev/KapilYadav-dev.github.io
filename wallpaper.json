@@ -2,57 +2,37 @@
   {
     "id": "1",
     "url": "https://i.ibb.co/0gMThVq/image.png",
-    "title": "Golden Horizon",
-    "subtitle": "Sunlit dunes glowing warmly",
     "seedColor": "0x00000000",
     "themeOption": "AMOLED_DARK"
   },
   {
     "id": "2",
     "url": "https://i.ibb.co/XfYytzQZ/image.png",
-    "title": "Crimson Night",
-    "subtitle": "Dark skies with a red glow",
     "seedColor": "0x00000000",
     "themeOption": "AMOLED_DARK"
   },
   {
     "id": "3",
     "url": "https://i.ibb.co/BH3DvytG/image.png",
-    "title": "Emerald Depths",
-    "subtitle": "Green forest in shadowed mist",
     "seedColor": "0x00000000",
     "themeOption": "AMOLED_DARK"
   },
   {
     "id": "4",
     "url": "https://i.ibb.co/xSYszTjp/image.png",
-    "title": "Azure Plains",
-    "subtitle": "Bright and airy sky field",
     "seedColor": "0x00000000",
     "themeOption": "AMOLED_DARK"
   },
   {
     "id": "5",
     "url": "https://i.ibb.co/bfnJCvc/image.png",
-    "title": "Shadow Realm",
-    "subtitle": "Dark mist and glowing haze",
     "seedColor": "0x00000000",
     "themeOption": "AMOLED_DARK"
   },
   {
     "id": "6",
     "url": "https://i.ibb.co/HfnmgMwq/image.png",
-    "title": "Ocean Whisper",
-    "subtitle": "Soft tides in calm waters",
     "seedColor": "0x00000000",
     "themeOption": "AMOLED_DARK"
   },
-  {
-    "id": "7",
-    "url": "https://i.ibb.co/b5Ft881D/image.png",
-    "title": "Violet Dream",
-    "subtitle": "Purple night hues in silence",
-    "seedColor": "0x00000000",
-    "themeOption": "AMOLED_DARK"
-  }
 ]

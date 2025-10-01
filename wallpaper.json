@@ -1,30 +1,5 @@
 [
   {
-    "id": "categories",
-    "categories": [
-      {
-        "id": "cat_1",
-        "name": "Abstract"
-      },
-      {
-        "id": "cat_2",
-        "name": "Nature"
-      },
-      {
-        "id": "cat_3",
-        "name": "Minimal"
-      },
-      {
-        "id": "cat_4",
-        "name": "Dark"
-      },
-      {
-        "id": "cat_5",
-        "name": "Colorful"
-      }
-    ]
-  },
-  {
     "id": "1",
     "url": "https://i.ibb.co/BXZbqKL/trapped.jpg",
     "seedColor": "0x00000000",

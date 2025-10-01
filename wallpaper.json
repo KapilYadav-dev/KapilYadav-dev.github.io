@@ -113,5 +113,15 @@
     "themeOption": "LIGHT",
     "categoryId": "cat_6",
     "isProWallpaper": true
+  },
+  {
+    "id": "11",
+    "url": "https://i.ibb.co/20qZ3KQM/1.jpg",
+    "seedColor": "0XFF96B478",
+    "title": "HULKKK",
+    "subtitle": "",
+    "themeOption": "DARK",
+    "categoryId": "cat_6",
+    "isProWallpaper": false
   }
 ]

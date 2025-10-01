@@ -3,7 +3,7 @@
     "id": "1",
     "url": "https://i.ibb.co/0gMThVq/image.png",
     "seedColor": "0x00000000",
-     "title": "",
+    "title": "",
     "subtitle": "",
     "themeOption": "AMOLED_DARK"
   },
@@ -11,7 +11,7 @@
     "id": "2",
     "url": "https://i.ibb.co/XfYytzQZ/image.png",
     "seedColor": "0x00000000",
-     "title": "",
+    "title": "",
     "subtitle": "",
     "themeOption": "AMOLED_DARK"
   },
@@ -19,7 +19,7 @@
     "id": "3",
     "url": "https://i.ibb.co/BH3DvytG/image.png",
     "seedColor": "0x00000000",
-     "title": "",
+    "title": "",
     "subtitle": "",
     "themeOption": "AMOLED_DARK"
   },
@@ -27,7 +27,7 @@
     "id": "4",
     "url": "https://i.ibb.co/xSYszTjp/image.png",
     "seedColor": "0x00000000",
-     "title": "",
+    "title": "",
     "subtitle": "",
     "themeOption": "AMOLED_DARK"
   },
@@ -35,7 +35,7 @@
     "id": "5",
     "url": "https://i.ibb.co/bfnJCvc/image.png",
     "seedColor": "0x00000000",
-     "title": "",
+    "title": "",
     "subtitle": "",
     "themeOption": "AMOLED_DARK"
   },
@@ -43,8 +43,16 @@
     "id": "6",
     "url": "https://i.ibb.co/HfnmgMwq/image.png",
     "seedColor": "0x00000000",
-     "title": "",
+    "title": "",
     "subtitle": "",
     "themeOption": "AMOLED_DARK"
   },
+  {
+    "id": "7",
+    "url": "https://i.ibb.co/b5Ft881D/image.png",
+    "seedColor": "0x00000000",
+    "title": "",
+    "subtitle": "",
+    "themeOption": "AMOLED_DARK"
+  }
 ]

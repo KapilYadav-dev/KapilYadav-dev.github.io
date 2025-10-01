@@ -93,5 +93,15 @@
     "themeOption": "DARK",
     "categoryId": "cat_6",
     "isProWallpaper": false
+  },
+  {
+    "id": "9",
+    "url": "https://i.ibb.co/XkKjBhdF/Krishna.jpg",
+    "seedColor": "0XFF1E1E28",
+    "title": "",
+    "subtitle": "",
+    "themeOption": "DARK",
+    "categoryId": "cat_4",
+    "isProWallpaper": true
   }
 ]

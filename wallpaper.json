@@ -21,6 +21,10 @@
       {
         "id": "cat_5",
         "name": "Colorful"
+      },
+      {
+        "id": "cat_6",
+        "name": "Anime"
       }
     ]
   },
@@ -79,5 +83,15 @@
     "themeOption": "DARK",
     "categoryId": "cat_1",
     "isProWallpaper": true
+  },
+  {
+    "id": "8",
+    "url": "https://i.ibb.co/GvfPtFPV/20250929-232014.jpg",
+    "seedColor": "0XFF5A1E1E",
+    "title": "",
+    "subtitle": "",
+    "themeOption": "DARK",
+    "categoryId": "cat_6",
+    "isProWallpaper": false
   }
 ]

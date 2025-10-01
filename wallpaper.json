@@ -103,5 +103,15 @@
     "themeOption": "DARK",
     "categoryId": "cat_4",
     "isProWallpaper": true
+  },
+  {
+    "id": "10",
+    "url": "https://i.ibb.co/WNtX724L/image.jpg",
+    "seedColor": "0XFFBE5A28",
+    "title": "Supaman",
+    "subtitle": "",
+    "themeOption": "LIGHT",
+    "categoryId": "cat_6",
+    "isProWallpaper": true
   }
 ]
